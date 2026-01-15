@@ -4,20 +4,22 @@
 }
 
 .testimonial {
-    background-color: white;
+    background-color: #fff;
     border: 1px solid #ddd;
     padding: 15px;
     margin-bottom: 20px;
-}
 
-.text {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0;
 }
 
 .author {
     font-style: italic;
     white-space: nowrap;
+    margin: 0;
+}
+
+.text {
+    margin: 0;
 }
